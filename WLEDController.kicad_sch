@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "c583902f-7437-4ba3-9501-f0233e9f0ef4")
 	(paper "A3")
+	(title_block
+		(title "WLED Controller")
+		(date "03.02.2025")
+		(rev "V1.0")
+		(company "Marc Schöndorf")
+	)
 	(lib_symbols
 		(symbol "74xx:74AHCT125"
 			(pin_names
