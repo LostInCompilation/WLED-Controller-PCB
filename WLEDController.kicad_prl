@@ -85,10 +85,10 @@
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": -2,
-          "pos_y": 38,
+          "pos_x": 120,
+          "pos_y": 166,
           "size_x": 1728,
-          "size_y": 994
+          "size_y": 1079
         }
       },
       {
@@ -97,8 +97,8 @@
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": 40,
-          "pos_y": 58,
+          "pos_x": 134,
+          "pos_y": 114,
           "size_x": 1728,
           "size_y": 1079
         }
