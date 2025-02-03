@@ -78,6 +78,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "WLEDController.kicad_sch",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 120,
+          "pos_y": 166,
+          "size_x": 1728,
+          "size_y": 1079
+        }
+      },
+      {
+        "name": "WLEDController.kicad_pcb",
+        "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 134,
+          "pos_y": 114,
+          "size_x": 1728,
+          "size_y": 1079
+        }
+      }
+    ]
   }
 }
