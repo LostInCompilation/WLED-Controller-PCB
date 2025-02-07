@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 37,
     "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -80,20 +80,8 @@
   "project": {
     "files": [
       {
-        "name": "WLEDController.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": 120,
-          "pos_y": 166,
-          "size_x": 1728,
-          "size_y": 1079
-        }
-      },
-      {
         "name": "WLEDController.kicad_pcb",
-        "open": true,
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
@@ -101,6 +89,18 @@
           "pos_y": 114,
           "size_x": 1728,
           "size_y": 1079
+        }
+      },
+      {
+        "name": "WLEDController.kicad_pro",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": false,
+          "pos_x": 328,
+          "pos_y": 159,
+          "size_x": 1087,
+          "size_y": 686
         }
       }
     ]

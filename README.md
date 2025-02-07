@@ -1,8 +1,11 @@
-# WLED Controller - 4 Channels - Current and power monitoring
+# WLED Controller (ESP32) - 4 Channels - Current and power monitoring
 
 ## Features
-- **4** Channels, **25A** total, **10A** per channel
-- Every channel has _independent_ current, power and voltage monitoring (INA219)
+- 4 Channels
+    - Max 25A total
+    - Max 10A per channel
+- Every channel has _independent_ current, power and voltage monitoring (using INA219)
+- Sending power monitoring data to HomeAssistant via MQTT
 - Relay for cutting power to LED-strips
 - Touch surface on PCB (next to LED) usable as custom button
 - SMD-1206 parts for easy hand soldering
@@ -11,8 +14,18 @@
 - _**Optional:** INMP441 I2S Microphone with low noise power supply_
 - _**Optional:** Line-In Audio with extension board (I2S ADC: PCM1808)_
 
+## Usermod
+This board requires a usermod for WLED for full support of all features including power monitoring.
+
+_**NOTE:** The usermod is currently in development and will be uploaded to thtis repository._
+
 ## 3D Board view
 <p align="center" width="100%">
 <img src="/plots/3d_front.png" alt="3D PCB"/>
 <img src="/plots/3d_back.png" alt="3D PCB"/>
+</p>
+
+## Board
+<p align="center" width="100%">
+<img src="/plots/board/board_front.png" alt="3D PCB"/>
 </p>
